@@ -8,4 +8,3 @@ Github: https://github.com/MigsGithub
 Portfolio: https://migsgithub.github.io
 
 Thank you
- 
